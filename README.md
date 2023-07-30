@@ -38,7 +38,7 @@ const Kmicac = {
         },
 
      learning: {
-          [ "Golang", "AWS Services", "CiberSecurity" ]
+          [ "Golang", "AWS Services" ]
          },
 
       hobbies: {
