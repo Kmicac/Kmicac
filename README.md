@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🌱 I’m currently learning **Golang, CiberSecurity..**
+- 🌱 I’m currently learning **Golang, AWS Services..**
 
 - 📫 How to reach me **camilojpg30@gmail.com**
 
