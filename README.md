@@ -34,7 +34,7 @@ const Kmicac = {
           lenguages:["JavaScript", "TypeScript"],
           database: [ "MongoDB", "PostgreSQL" ],
           backEnd: [ "NodeJs", "Express", "NestJs", "Sequelize", "TypeORM", "Mongoose" ],
-          frontEnd: [ "HTML", "React", "Redux", "Hooks", "CSS" ]
+          frontEnd: [ "HTML", "React", "Redux", NextJs, "Hooks", "CSS" ]
         },
 
      learning: {
